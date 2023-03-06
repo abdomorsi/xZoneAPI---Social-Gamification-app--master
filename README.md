@@ -1,2 +1,2 @@
 # xZoneAPI---Social-Gamification-app
- Rest api for app backend
+ Rest api for mobile app concerned with gamification
